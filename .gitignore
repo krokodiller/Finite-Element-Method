@@ -1,0 +1,16 @@
+
+.vs/Finite Element Method/v17/.suo
+*.db
+*.db-wal
+*.ipch
+*.opendb
+*.db-shm
+*.txt
+*.tlog
+*.ilk
+*.log
+*.recipe
+*.obj
+*.idb
+*.exe
+*.pdb
